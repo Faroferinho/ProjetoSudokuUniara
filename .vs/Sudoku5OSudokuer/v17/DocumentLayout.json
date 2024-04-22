@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB513BD0-A205-4827-8B37-1CEF74FFB623}|Sudoku3ElectricBugaloo\\Sudoku5OSudokuer.csproj|c:\\users\\conra\\source\\repos\\sudoku5osudokuer\\sudoku3electricbugaloo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB513BD0-A205-4827-8B37-1CEF74FFB623}|Sudoku3ElectricBugaloo\\Sudoku5OSudokuer.csproj|solutionrelative:sudoku3electricbugaloo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB513BD0-A205-4827-8B37-1CEF74FFB623}|Sudoku3ElectricBugaloo\\Sudoku3ElectricBugaloo.csproj|C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\sudoku3electricbugaloo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB513BD0-A205-4827-8B37-1CEF74FFB623}|Sudoku3ElectricBugaloo\\Sudoku3ElectricBugaloo.csproj|solutionrelative:sudoku3electricbugaloo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB513BD0-A205-4827-8B37-1CEF74FFB623}|Sudoku3ElectricBugaloo\\Sudoku3ElectricBugaloo.csproj|C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\sudoku3electricbugaloo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB513BD0-A205-4827-8B37-1CEF74FFB623}|Sudoku3ElectricBugaloo\\Sudoku3ElectricBugaloo.csproj|solutionrelative:sudoku3electricbugaloo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\Sudoku3ElectricBugaloo\\Form1.cs",
+              "RelativeDocumentMoniker": "Sudoku3ElectricBugaloo\\Form1.cs",
+              "ToolTip": "C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\Sudoku3ElectricBugaloo\\Form1.cs [Design]",
+              "RelativeToolTip": "Sudoku3ElectricBugaloo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:38:38.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\Sudoku3ElectricBugaloo\\Form1.cs",
+              "RelativeDocumentMoniker": "Sudoku3ElectricBugaloo\\Form1.cs",
+              "ToolTip": "C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\Sudoku3ElectricBugaloo\\Form1.cs",
+              "RelativeToolTip": "Sudoku3ElectricBugaloo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:06:01.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\conra\\source\\repos\\Sudoku5OSudokuer\\Sudoku3ElectricBugaloo\\Form1.cs",
+              "RelativeDocumentMoniker": "Sudoku3ElectricBugaloo\\Form1.cs",
+              "ToolTip": "E:\\Davi\\Sudoku3ElectricBugaloo\\Sudoku3ElectricBugaloo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:03:35.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

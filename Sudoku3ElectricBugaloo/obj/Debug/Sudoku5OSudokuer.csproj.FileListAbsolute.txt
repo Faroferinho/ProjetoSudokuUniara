@@ -1,0 +1,10 @@
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\bin\Debug\Sudoku3ElectricBugaloo.exe.config
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\bin\Debug\Sudoku3ElectricBugaloo.exe
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\bin\Debug\Sudoku3ElectricBugaloo.pdb
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku5OSudokuer.csproj.AssemblyReference.cache
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku5OSudokuer.Form1.resources
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku3ElectricBugaloo.Properties.Resources.resources
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku5OSudokuer.csproj.GenerateResource.cache
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku5OSudokuer.csproj.CoreCompileInputs.cache
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku3ElectricBugaloo.exe
+C:\Users\conra\source\repos\Sudoku5OSudokuer\Sudoku3ElectricBugaloo\obj\Debug\Sudoku3ElectricBugaloo.pdb
